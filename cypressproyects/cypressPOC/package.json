@@ -1,0 +1,14 @@
+{
+  "name": "cypresspoc",
+  "version": "1.0.0",
+  "description": "This is for cypress automation Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johann Romero",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.4"
+  }
+}

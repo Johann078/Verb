@@ -1,0 +1,9 @@
+{
+    "baseUrl":"https://sendbrightools.com.soundcon2.com/login/secondary",
+    "ignoreTestFiles":[
+        "**/1-getting-started/*.js",
+        "**/2-advanced-examples/*.js"
+    ],
+    "viewportHeight":1080,
+    "viewportWidth":1920
+}
